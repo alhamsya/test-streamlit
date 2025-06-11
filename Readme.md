@@ -38,3 +38,5 @@ pip install streamlit
 ```bash
 streamlit run app.py
 ```
+
+![alt text](images/image.png)
