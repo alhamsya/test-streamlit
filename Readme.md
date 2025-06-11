@@ -33,6 +33,12 @@ source .venv/bin/activate
 pip install streamlit
 ```
 
+## Install Dependency
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Running Apps
 
 ```bash
