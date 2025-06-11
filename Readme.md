@@ -3,7 +3,13 @@
 ## clone
 
 ```bash
-git clone
+git clone git@github.com:alhamsya/test-streamlit.git
+```
+
+## Create an environment using venv
+
+```bash
+python -m venv .venv
 ```
 
 ## Install Streamlit
