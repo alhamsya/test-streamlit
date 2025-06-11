@@ -12,12 +12,6 @@ git clone git@github.com:alhamsya/test-streamlit.git
 python -m venv .venv
 ```
 
-## Install Streamlit
-
-```bash
-pip install streamlit
-```
-
 ## Activate your environment
 
 In your terminal, activate your environment with one of the following commands, depending on your operating system.
@@ -31,6 +25,12 @@ In your terminal, activate your environment with one of the following commands, 
 
 # macOS and Linux
 source .venv/bin/activate
+```
+
+## Install Streamlit
+
+```bash
+pip install streamlit
 ```
 
 ## Running Apps
