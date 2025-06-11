@@ -63,6 +63,7 @@ target/
 
 # Virtual environments
 venv*
+.venv
 
 # Pytest and coverage
 .cache
